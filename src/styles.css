@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+#cash-given {
+  display: block;
+  margin: 0rem auto 1rem auto;
+}
+
+table {
+  width: 50%;
+  text-align: justify;
+  border-collapse: collapse;
+  margin: auto;
+}
